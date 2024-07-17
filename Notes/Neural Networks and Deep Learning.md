@@ -47,6 +47,7 @@ There are two kinds of data a neural network operates on, **Structured** and **U
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Structured data refers to data that is organized in a tabular database. The features of a structured dataset can be easily understood by a computer. | Unstructured data refers to data whose features cannot be easily interpreted by a computer.                                                                                    |
 | An example of a structured dataset is the analytics of an advert. In structured data, each parameter and statistic has a well-defined value.         | Examples of unstructured dataset include audio, image or text, where the meaningful features need to be extracted instead (such as audio cues, pixel data or words in a text). |
+
 The objective of deep learning is to make the interpretation and computation of unstructured data easier with technologies such as _Speech Recognition_, _Image Recognition_ and _Natural Language Processing_.
 
 **Source**: [Link](https://youtu.be/BYGpKPY9pO0?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
