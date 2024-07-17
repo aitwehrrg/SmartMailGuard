@@ -1,2 +1,2 @@
 # SmartMailGuard
-SmartMailGurad for Project X 2024
+SmartMailGuard for Project X 2024
