@@ -15,3 +15,5 @@ SmartMailGuard for Project X 2024
 # Daily Updates
 
 [Google Sheets](https://docs.google.com/spreadsheets/d/1qV0lIelUIn5VSjm5Bp9n0jBADw4Rix_1AfFmg6AUp7I)
+
+[DSA updates](https://docs.google.com/spreadsheets/d/16ZHHsjfNFgXNVX6GD1JIMGyANhK8ks-2jU-UDHOWXQM/edit?gid=0#gid=0)
