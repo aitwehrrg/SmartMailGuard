@@ -51,13 +51,13 @@ SmartMailGuard is a system designed to categorize emails using Naïve Bayes, LST
 - Install [Pip](https://pip.pypa.io/en/stable/installation/) and verify its installation using the following terminal command:
 
 ```bash
-	pip --version
+pip --version
 ```
 
 - **Optional**: Install [Jupyter](https://jupyter.org/install) using the following command:
 
 ```bash
-	pip install jupyter lab
+pip install jupyter lab
 ```
 
 Alternatively, [Google Colaboratory](https://colab.research.google.com/) and [Kaggle](https://www.kaggle.com/) can also be used to run the notebooks (with some RAM limitations).
@@ -65,13 +65,13 @@ Alternatively, [Google Colaboratory](https://colab.research.google.com/) and [Ka
 - Run the following command to install all the dependencies:
 
 ```
-	pip install pandas pytorch scikit-learn tensorflow transformers
+pip install pandas pytorch scikit-learn tensorflow transformers
 ```
 
 - Clone the repository:
 
 ```bash
-	git clone https://github.com/aitwehrrg/SmartMailGuard.git
+git clone https://github.com/aitwehrrg/SmartMailGuard.git
 ```
 
 - Run any of the models (`.ipynb`) as Jupyter notebooks.
