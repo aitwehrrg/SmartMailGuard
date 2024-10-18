@@ -3,6 +3,16 @@
 ![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdxr1hA556P3LyHXsHQAl0342btIbEHKfXUm5Ubr-SoGkIzortajR-8X9fCmn4aj1TznMczbVZ_XSVMs2elTKZQPzK67FTMjjST7XrsP10E9jGOtIRhrnO4At1C5Zgr443GIqhYhcuhYD0aqGTjmqE6-K12QZFT=s2048?key=9e3EFz_MWWXAqOMHKU1kTg)
 # Table of Contents
 
+- [About the Project](#about-the-project)
+	- [Aim](#aim)
+	- [Description](#description)
+	- [Tech Stack](#tech-stack)
+- [File Structure](#file-structure)
+- [Requirements](#requirements)
+- [Contributors](#contributors)
+- [Mentors](#mentors)
+- [Resources and Acknowledgements](#resources-and-acknowledgements)
+
 # About the Project
 ## Aim
 
@@ -75,20 +85,21 @@ git clone https://github.com/aitwehrrg/SmartMailGuard.git
 ```
 
 - Run any of the models (`.ipynb`) as Jupyter notebooks.
-## Contributors
+# Contributors
 
 1. [Amal Verma](https://github.com/Amal-Verma)
 2. [Kevin Shah](https://github.com/kevinzb56)
 3. [Rupak R. Gupta](https://github.com/aitwehrrg)
 
-## Mentors
+# Mentors
 
 1. [Druhi Phutane](https://github.com/druhi021204)
 2. [Raya Chakravarty](https://github.com/Raya679)
 
 # Resources and Acknowledgements
 
-1. Andrew Ng's course on Introduction to Deep Learning: DeepLearning.AI
-2. LSTM paper
-3. BERT paper
-4. Attention is all you need
+1. CoC and Project X for providing this opportunity.
+2. Andrew Ng's course on Introduction to Deep Learning: DeepLearning.AI
+3. LSTM paper
+4. BERT paper
+5. Attention is all you need
