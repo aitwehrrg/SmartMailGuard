@@ -35,6 +35,8 @@ Using these different models and algorithms we can compare and grade their effec
 
 ## Models and Accuracies
 
+83k Dataset Link: [Kaggle](https://www.kaggle.com/datasets/amalverma27/email-classification-dataset)
+
 ### 1. Naïve Bayes
 
 #### 1.1. Without N-gram Optimization
