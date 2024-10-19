@@ -99,7 +99,8 @@ Using these different models and algorithms we can compare and grade their effec
 │   ├── Naive_Bayes_Final.ipynb
 │   ├── Naive_Bayes_enron_dataset.ipynb
 │   ├── Naive_Bayes_sklearn.ipynb
-│   └── lstmemailclassification.ipynb
+│   ├── lstmemailclassification.ipynb
+│   └── RNN_spam_not_spam.ipynb
 ├── Coursera Notes
 │	├── Course1
 │	├── Course2
