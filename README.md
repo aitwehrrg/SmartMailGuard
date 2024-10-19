@@ -12,14 +12,13 @@
 - [Resources and Acknowledgements](#resources-and-acknowledgements)
 
 # About the Project
-
-![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdxr1hA556P3LyHXsHQAl0342btIbEHKfXUm5Ubr-SoGkIzortajR-8X9fCmn4aj1TznMczbVZ_XSVMs2elTKZQPzK67FTMjjST7XrsP10E9jGOtIRhrnO4At1C5Zgr443GIqhYhcuhYD0aqGTjmqE6-K12QZFT=s2048?key=9e3EFz_MWWXAqOMHKU1kTg)
-
 ## Aim
 
 The objective of this project is to develop an intelligent email classification system using machine learning and deep learning models.
 
 ## Description
+
+![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdxr1hA556P3LyHXsHQAl0342btIbEHKfXUm5Ubr-SoGkIzortajR-8X9fCmn4aj1TznMczbVZ_XSVMs2elTKZQPzK67FTMjjST7XrsP10E9jGOtIRhrnO4At1C5Zgr443GIqhYhcuhYD0aqGTjmqE6-K12QZFT=s2048?key=9e3EFz_MWWXAqOMHKU1kTg)
 
 SmartMailGuard is a system designed to categorize emails using Naïve Bayes, LSTM, and other Transformer architectures.
 
@@ -99,21 +98,25 @@ Using these different models and algorithms we can compare and grade their effec
 │   ├── Naive_Bayes_enron_dataset.ipynb
 │   ├── Naive_Bayes_sklearn.ipynb
 │   └── lstmemailclassification.ipynb
-├── ML Algorithms
-│   ├── Decision Tree
-│   ├── Random Forest
-│   └── Support Vector Machines
-├── Multi Intent Classification
-│   ├── Multiclass.ipynb
-│   ├── final_combined.csv
-│   ├── multiclass-bert-Finaldataset-from-scratch.ipynb
-│   ├── multiclass-bert-Finaldataset.ipynb
-│   └── multinomial_combined.ipynb
-├── Notes
+├── Coursera Notes
 │	├── Course1
 │	├── Course2
-│	├── Course5/Notes
-├── Report
+│	├── Course5
+├── Multi Intent Classification
+│   ├── Decision Tree
+|	│   ├── decision-tree-grid-search.ipynb
+|	│   ├── decision-tree.ipynb
+│   ├── Random Forest Classifier
+|	│   ├── RandomForestClassifier-grid_search.ipynb
+|	│   ├── RandomForestClassifier.ipynb
+│   ├── Support Vector Machine
+|	│   ├── SVM_grid_search.ipynb
+|	│   ├── SVM_multiclass_classifier.ipynb
+│   ├── Multiclass.ipynb
+│   ├── multiclass-bert-Finaldataset.ipynb
+│   ├── multiclass-bert-Finaldataset-from-scratch.ipynb
+│   └── multinomial_combined.ipynb
+├── SmartMailGuard Report
 │	├── SmartMailGuard Report.pdf
 └── README.md 
 ```
