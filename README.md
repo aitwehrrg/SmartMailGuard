@@ -23,6 +23,8 @@ The objective of this project is to develop an intelligent email classification 
 
 SmartMailGuard is a system designed to categorize emails using Naïve Bayes, LSTM, and other Transformer architectures.
 
+Using these different models and algorithms we can compare and grade their effectiveness on datasets of varying sizes and on the type of classification: Binary (Spam/Not-Spam) or Multiclass.
+
 ## Tech Stack
 
 1. [Python](https://www.python.org/)
@@ -101,7 +103,7 @@ SmartMailGuard is a system designed to categorize emails using Naïve Bayes, LST
 │   ├── Decision Tree
 │   ├── Random Forest
 │   └── Support Vector Machines
-├── Multi Intent Classifier
+├── Multi Intent Classification
 │   ├── Multiclass.ipynb
 │   ├── final_combined.csv
 │   ├── multiclass-bert-Finaldataset-from-scratch.ipynb
@@ -157,10 +159,12 @@ git clone https://github.com/aitwehrrg/SmartMailGuard.git
 1. [Druhi Phutane](https://github.com/druhi021204)
 2. [Raya Chakravarty](https://github.com/Raya679)
 
-# Resources and Acknowledgements
+# Acknowledgements and Resources
 
 1. CoC and Project X for providing this opportunity.
-2. Andrew Ng's course on Introduction to Deep Learning: DeepLearning.AI
-3. LSTM paper
-4. BERT paper
-5. Attention is all you need
+2. Course on _[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)_ by _[DeepLearning.AI](https://www.deeplearning.ai/)_
+3. _[Long Short-Term Memory](https://deeplearning.cs.cmu.edu/F23/document/readings/LSTM.pdf)_
+4. _[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)_
+5. _[Attention is all you need](https://arxiv.org/abs/1706.03762)_
+6. [Kaggle datasets](https://www.kaggle.com/datasets)
+7. [HuggingFace Transformer Models](https://huggingface.co/models)
