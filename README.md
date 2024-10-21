@@ -102,25 +102,26 @@ Using these different models and algorithms we can compare and grade their effec
 │   ├── lstmemailclassification.ipynb
 │   └── RNN_spam_not_spam.ipynb
 ├── Coursera Notes
-│	├── Course1
-│	├── Course2
-│	├── Course5
+│		├── Course1
+│		├── Course2
+│		├── Course5
 ├── Multi Intent Classification
 │   ├── Decision Tree
-|	│   ├── decision-tree-grid-search.ipynb
-|	│   ├── decision-tree.ipynb
+| 	│   ├── decision-tree-grid-search.ipynb
+|		│   ├── decision-tree.ipynb
 │   ├── Random Forest Classifier
-|	│   ├── RandomForestClassifier-grid_search.ipynb
-|	│   ├── RandomForestClassifier.ipynb
+|		│   ├── RandomForestClassifier-grid_search.ipynb
+|		│   ├── RandomForestClassifier.ipynb
 │   ├── Support Vector Machine
-|	│   ├── SVM_grid_search.ipynb
-|	│   ├── SVM_multiclass_classifier.ipynb
+|		│   ├── SVM_grid_search.ipynb
+|		│   ├── SVM_multiclass_classifier.ipynb
+|		├── AutoLabeler.ipynb
 │   ├── Multiclass.ipynb
 │   ├── multiclass-bert-Finaldataset.ipynb
 │   ├── multiclass-bert-Finaldataset-from-scratch.ipynb
 │   └── multinomial_combined.ipynb
 ├── SmartMailGuard Report
-│	├── SmartMailGuard Report.pdf
+│		├── SmartMailGuard Report.pdf
 └── README.md 
 ```
 
