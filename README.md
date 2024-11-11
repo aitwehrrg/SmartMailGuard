@@ -36,7 +36,8 @@ Using these different models and algorithms we can compare and grade their effec
 ## Models and Accuracies
 
 83k Dataset Link(For Binary Classification): [Kaggle](https://www.kaggle.com/datasets/amalverma27/email-classification-dataset)<br>
-3k Dataset Link(For Multiclass Classification): [Kaggle](https://www.kaggle.com/datasets/kevinzb56/final-combined)
+3k Dataset Link(For Multiclass Classification): [Kaggle](https://www.kaggle.com/datasets/kevinzb56/final-combined)<br>
+Dataset for AutoLabeler: [Kaggle](https://www.kaggle.com/datasets/amalverma27/multiclass-mail)
 
 ### 1. Naïve Bayes
 
